@@ -20,4 +20,7 @@ spark를 이용한 분산 고차원 이미지 데이터 색인기법
 
 ![image](https://user-images.githubusercontent.com/61452032/191236707-e76c76d6-02ef-4806-921d-0553cb51b9ca.png)
 
+![image](https://user-images.githubusercontent.com/61452032/191237217-3c7c85d1-0e0b-4323-bb21-dd301e7b75d3.png)
+
+
 - faiss를 이용한 이미지 탐색
