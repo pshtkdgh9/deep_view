@@ -17,6 +17,7 @@ spark를 이용한 분산 고차원 이미지 데이터 색인기법
 ## 2. 핵심 기능
 
 - 분산 고차원 이미지 데이터 색인기법
+
 ![image](https://user-images.githubusercontent.com/61452032/191236707-e76c76d6-02ef-4806-921d-0553cb51b9ca.png)
 
 - faiss를 이용한 이미지 탐색
